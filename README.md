@@ -3,3 +3,4 @@
   - Configured Pipeline in Jenkins
   - Generated PAT in Github
   - Generated Webhook to Jenkins in Github
+- Testing using postman with curl
